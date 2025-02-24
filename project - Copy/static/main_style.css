@@ -23,7 +23,7 @@ body {
 .background-blur {
     width: 100%;
     height: 100%;
-    background-image: url('C:/Users/Shruti_Rajawat/Desktop/project/static/images/background2.webp'); /* Use the image URL here */
+    background-image: url('../static/images/background2.webp'); /* Use the image URL here */
     background-size: cover; /* Ensures the image covers the entire container */
     background-position: center; /* Centers the image */
     background-repeat: no-repeat; /* Avoids repeating the image */
